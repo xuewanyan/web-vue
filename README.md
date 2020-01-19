@@ -1,6 +1,6 @@
 # web-vue
 
-vue
+vue2
 
 > A Vue.js project
 
