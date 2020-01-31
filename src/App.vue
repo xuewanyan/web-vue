@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import tree from "./pages/tree/tree.vue"
+import tree from "./pages/tree/inter.vue"
 
 export default {
   name: 'App',
