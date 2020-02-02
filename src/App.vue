@@ -1,4 +1,6 @@
+
 <template>
+
   <div id="app">
     <ul>
     <tree :model="data"></tree>
@@ -7,7 +9,7 @@
 </template>
 
 <script>
-import tree from "./pages/tree/inter.vue"
+import tree from "./pages/tree/music.vue"
 
 export default {
   name: 'App',
